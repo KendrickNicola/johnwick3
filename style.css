@@ -1,0 +1,31 @@
+h1{
+    font-family: Arial,Helvetica,sans-serif;
+    color: violet;
+}
+
+a{
+    color:violet;
+}
+*{
+    background-color: black;
+}
+footer{ color:violet;
+font-style: italic;
+}
+ .john3 {
+    background-image:url(Johnwick.jpg);
+    background-repeat:no-repeat;
+    background-position:right;
+    height:300px;
+ }
+ h2{ color:violet;
+
+ }
+ .john2 {
+    background-image:url(johnsonwick.jpg);
+    background-repeat:no-repeat;
+    background-position:left bottom;
+ }
+ p{
+color:violet;
+ }
